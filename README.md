@@ -2,7 +2,7 @@
  
 Convolutional neural network in Keras/TensorFlow for image classification on CIFAR-10, built without pretrained models. The final model reaches **90.0 % test accuracy**.
  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<user>/cifar10-cnn-from-scratch/blob/main/cifar10-cnn-classification.ipynb)
+[![Open In Colab]([https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<user>/cifar10-cnn-from-scratch/blob/main/cifar10-cnn-classification.ipynb](https://colab.research.google.com/github/MartinSamas/cifar10_cnn/blob/main/cifar10_cnn_classification.ipynb))
  
 ## Data
 CIFAR-10 from TensorFlow Datasets, split 40k / 10k / 10k (train / validation / test).
